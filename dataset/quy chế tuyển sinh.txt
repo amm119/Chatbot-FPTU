@@ -1,0 +1,101 @@
+01. Ngành đào tạo :
+Mã trường: FPT
+Ngành :Quản trị kinh doanh	
+Mã ngành : 7340101
+Chỉ tiêu : 7800	
+Chuyên Ngành:	
+1. Digital Marketing	 7880
+2. Kinh doanh quốc tế
+3. Quản trị khách sạn
+4. Quản trị dịch vụ du lịch & lữ hành
+5. Quản trị truyền thông đa phương tiện
+6. Tài chính
+Ngành : Công nghệ thông tin
+Mã ngành : 7480201
+Chỉ tiêu : 11360
+Chuyên Ngành:
+7. Kỹ thuật phần mềm	 
+8. Hệ thống thông tin
+9. Trí tuệ nhân tạo
+10. Thiết kế Mỹ thuật số
+11. An toàn thông tin
+Ngành : Ngôn ngữ Anh
+Mã ngành : 7220201
+Chỉ tiêu : 840
+Chuyên Ngành : 12. Ngôn ngữ Anh – Anh; Ngôn ngữ Anh – Trung
+Ngành : Ngôn ngữ Nhật
+Mã ngành : 7220209
+Chỉ tiêu : 840
+Chuyên Ngành: 13. Ngôn ngữ Nhật
+Ngành : Ngôn ngữ Hàn Quốc
+Mã ngành : 7220210
+Chỉ tiêu : 840
+Chuyên Ngành: 14. Ngôn ngữ Hàn Quốc
+
+02. Đối tượng và phương thức tuyển sinh :
+1. Đối tượng tuyển sinh
+
+ Các thí sinh đã được công nhận tốt nghiệp trung học phổ thông (THPT) của Việt Nam hoặc có bằng tốt nghiệp của nước ngoài được công nhận trình độ tương đương tính đến thời điểm nhập học, có nguyện vọng theo học tại Trường Đại học FPT. 
+
+ 
+
+2. Phương thức tuyển sinh
+
+Phương thức tuyển sinh	
+- Xét kết quả xếp hạng học sinh THPT năm 2023 (chứng nhận thực hiện trên trang http://SchoolRank.fpt.edu.vn)
+Điều kiện trúng tuyển:
+1.1. Đạt xếp hạng Top50 theo học bạ THPT năm 2023
+1.2. Đạt xếp hạng Top50 theo điểm thi THPT năm 2023 (theo số liệu Đại học FPT tổng hợp và công bố sau kỳ thi THPT 2023)
+Phương thức tuyển sinh	
+- Xét tuyển bằng điểm thi THPT
+Điều kiện trúng tuyển:
+2.1. Điểm thi môn Toán + 2 môn tự chọn >=21 điểm 
+Phương thức tuyển sinh	
+- Xét tuyển thẳng
+Điều kiện trúng tuyển:
+3.1. Thí sinh thuộc diện được xét tuyển thẳng trong Quy chế tuyển sinh Đại học, Cao đẳng hệ đại học chính quy của Bộ GD&ĐT năm 2023
+3.2. Có chứng chỉ tiếng Anh TOEFL iBT từ 80 hoặc IELTS (Học thuật) từ 6.0 hoặc VSTEP bậc 5 hoặc quy đổi tương đương (áp dụng đối với ngành Ngôn Ngữ Anh); có chứng chỉ tiếng Nhật JLPT từ N3 trở lên (áp dụng đối với ngành Ngôn Ngữ Nhật); có chứng chỉ tiếng Hàn TOPIK cấp độ 4 trong kỳ thi TOPIK II (áp dụng đối với ngành Ngôn Ngữ Hàn Quốc)
+3.3. Tốt nghiệp phổ thông với văn bằng do nước ngoài cấp
+3.4. Tốt nghiệp một trong các chương trình sau: Chương trình APTECH HDSE/ADSE (đối với ngành Công nghệ thông tin); Chương trình ARENA ADIM (đối với chuyên ngành Thiết kế Mỹ thuật số); Chương trình BTEC HND; FUNiX Software Engineering; Chương trình Melbourne Polytechnic
+3.5. Tốt nghiệp Đại học
+3.6. Sinh viên từ nước ngoài về từ các trường đại học thuộc Top 1000 trong 3 bảng xếp hạng gần nhất: QS, ARWU và THE hoặc các trường đạt chứng nhận QS Star 5 sao về chất lượng đào tạo
+3.7. Tốt nghiệp Top50 Chương trình Phổ thông Cao đẳng (9+) tại FPT Polytechnic; Tốt nghiệp Top50 Cao đẳng FPT Polytechnic
+
+Ghi chú:
+
+(*) Thế hệ 1: thí sinh là người đầu tiên trong gia đình (gồm phụ huynh hoặc người bảo trợ và tất cả anh chị em ruột) học đại học. Khi đăng ký xét tuyển, thí sinh là Thế hệ 1 cần nộp Đơn đăng ký ưu tiên xét tuyển có xác nhận của nơi làm việc của bố mẹ hoặc địa phương theo mẫu của Trường Đại học FPT.
+
+03.Thủ tục xét tuyển : 
+1. Hồ sơ đăng ký
+
+- Đăng ký trực tuyến tại: https://dangky.fpt.edu.vn
+
+- Phiếu đăng ký: Tải tại đây
+
+- Bản photo/scan CMND/CCCD/hộ chiếu;
+
+- Bản photo/scan Học bạ THPT (đối với hồ sơ đăng ký theo kết quả Học bạ THPT) hoặc Giấy chứng nhận kết quả thi THPT năm 2023 (đối với hồ sơ đăng ký theo kết quả thi THPT năm 2023);
+
+- Giấy chứng nhận xếp hạng học sinh THPT năm 2023 theo kết quả học bạ THPT/kết quả thi THPT trên trang http://SchoolRank.fpt.edu.vn;
+
+- Bản photo/scan các giấy tờ chứng nhận điều kiện đăng ký khác (nếu có).
+
+- Lệ phí tuyển sinh: 200.000 đồng;
+ 
+
+Thí sinh nộp lệ phí bằng cách chuyển khoản trực tiếp qua tài khoản ngân hàng của Trường Đại học FPT: 
+
+Ngân Hàng Thương mại Cổ phần Tiên Phong - Chi Nhánh Tp. Hồ Chí Minh
+Chủ tài khoản: Phân hiệu Trường Đại học FPT tại thành phố Hồ Chí Minh
+Số tài khoản: 20209090909
+Nội dung: Họ và tên thí sinh - Số CMND của thí sinh - Lệ phí ĐKTS 2023
+
+*Đăng ký chỉ hợp lệ khi Trường ĐH FPT nhận được đầy đủ hồ sơ và lệ phí tuyển sinh theo quy định.
+
+2. Thông tin liên hệ
+
+Phòng Tuyển sinh Trường Đại học FPT (Campus TP. Hồ Chí Minh)
+Địa chỉ: Lô E2a-7, Đường D1 Khu Công nghệ cao, P. Long Thạnh Mỹ, Q.9, Tp.HCM
+Hotline: (028) 7300 5588
+Website: https://hcmuni.fpt.edu.vn
+Fanpage: https://www.facebook.com/FPTU.HCM
