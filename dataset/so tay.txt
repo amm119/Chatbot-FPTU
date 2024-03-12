@@ -1,0 +1,534 @@
+01. Ngành đào tạo :
+Mã trường: FPT
+Ngành :Quản trị kinh doanh	
+Mã ngành : 7340101
+Chỉ tiêu : 7800	
+Chuyên Ngành:	
+1. Digital Marketing
+2. Kinh doanh quốc tế
+3. Quản trị khách sạn
+4. Quản trị dịch vụ du lịch & lữ hành
+5. Quản trị truyền thông đa phương tiện
+6. Tài chính
+Ngành : Công nghệ thông tin
+Mã ngành : 7480201
+Chỉ tiêu : 11360
+Chuyên Ngành:
+7. Kỹ thuật phần mềm	 
+8. Hệ thống thông tin
+9. Trí tuệ nhân tạo
+10. Thiết kế Mỹ thuật số
+11. An toàn thông tin
+Ngành : Ngôn ngữ Anh
+Mã ngành : 7220201
+Chỉ tiêu : 840
+Chuyên Ngành : 12. Ngôn ngữ Anh – Anh; Ngôn ngữ Anh – Trung
+Ngành : Ngôn ngữ Nhật
+Mã ngành : 7220209
+Chỉ tiêu : 840
+Chuyên Ngành: 13. Ngôn ngữ Nhật
+Ngành : Ngôn ngữ Hàn Quốc
+Mã ngành : 7220210
+Chỉ tiêu : 840
+Chuyên Ngành: 14. Ngôn ngữ Hàn Quốc
+
+02. Đối tượng và phương thức tuyển sinh :
+1. Đối tượng tuyển sinh
+
+ Các thí sinh đã được công nhận tốt nghiệp trung học phổ thông (THPT) của Việt Nam hoặc có bằng tốt nghiệp của nước ngoài được công nhận trình độ tương đương tính đến thời điểm nhập học, có nguyện vọng theo học tại Trường Đại học FPT. 
+
+2. Phương thức tuyển sinh
+
+Phương thức tuyển sinh	
+- Xét kết quả xếp hạng học sinh THPT năm 2023 (chứng nhận thực hiện trên trang http://SchoolRank.fpt.edu.vn)
+Điều kiện trúng tuyển:
+1.1. Đạt xếp hạng Top50 theo học bạ THPT năm 2023
+1.2. Đạt xếp hạng Top50 theo điểm thi THPT năm 2023 (theo số liệu Đại học FPT tổng hợp và công bố sau kỳ thi THPT 2023)
+Phương thức tuyển sinh	
+- Xét tuyển bằng điểm thi THPT
+Điều kiện trúng tuyển:
+2.1. Điểm thi môn Toán + 2 môn tự chọn >=21 điểm 
+Phương thức tuyển sinh	
+- Xét tuyển thẳng
+Điều kiện trúng tuyển:
+3.1. Thí sinh thuộc diện được xét tuyển thẳng trong Quy chế tuyển sinh Đại học, Cao đẳng hệ đại học chính quy của Bộ GD&ĐT năm 2023
+3.2. Có chứng chỉ tiếng Anh TOEFL iBT từ 80 hoặc IELTS (Học thuật) từ 6.0 hoặc VSTEP bậc 5 hoặc quy đổi tương đương (áp dụng đối với ngành Ngôn Ngữ Anh); có chứng chỉ tiếng Nhật JLPT từ N3 trở lên (áp dụng đối với ngành Ngôn Ngữ Nhật); có chứng chỉ tiếng Hàn TOPIK cấp độ 4 trong kỳ thi TOPIK II (áp dụng đối với ngành Ngôn Ngữ Hàn Quốc)
+3.3. Tốt nghiệp phổ thông với văn bằng do nước ngoài cấp
+3.4. Tốt nghiệp một trong các chương trình sau: Chương trình APTECH HDSE/ADSE (đối với ngành Công nghệ thông tin); Chương trình ARENA ADIM (đối với chuyên ngành Thiết kế Mỹ thuật số); Chương trình BTEC HND; FUNiX Software Engineering; Chương trình Melbourne Polytechnic
+3.5. Tốt nghiệp Đại học
+3.6. Sinh viên từ nước ngoài về từ các trường đại học thuộc Top 1000 trong 3 bảng xếp hạng gần nhất: QS, ARWU và THE hoặc các trường đạt chứng nhận QS Star 5 sao về chất lượng đào tạo
+3.7. Tốt nghiệp Top50 Chương trình Phổ thông Cao đẳng (9+) tại FPT Polytechnic; Tốt nghiệp Top50 Cao đẳng FPT Polytechnic
+
+Ghi chú:
+
+(*) Thế hệ 1: thí sinh là người đầu tiên trong gia đình (gồm phụ huynh hoặc người bảo trợ và tất cả anh chị em ruột) học đại học. Khi đăng ký xét tuyển, thí sinh là Thế hệ 1 cần nộp Đơn đăng ký ưu tiên xét tuyển có xác nhận của nơi làm việc của bố mẹ hoặc địa phương theo mẫu của Trường Đại học FPT.
+
+03.Thủ tục xét tuyển : 
+1. Hồ sơ đăng ký
+
+- Đăng ký trực tuyến tại: https://dangky.fpt.edu.vn
+
+- Phiếu đăng ký: Tải tại đây
+
+- Bản photo/scan CMND/CCCD/hộ chiếu;
+
+- Bản photo/scan Học bạ THPT (đối với hồ sơ đăng ký theo kết quả Học bạ THPT) hoặc Giấy chứng nhận kết quả thi THPT năm 2023 (đối với hồ sơ đăng ký theo kết quả thi THPT năm 2023);
+
+- Giấy chứng nhận xếp hạng học sinh THPT năm 2023 theo kết quả học bạ THPT/kết quả thi THPT trên trang http://SchoolRank.fpt.edu.vn;
+
+- Bản photo/scan các giấy tờ chứng nhận điều kiện đăng ký khác (nếu có).
+
+- Lệ phí tuyển sinh: 200.000 đồng;
+ 
+
+Thí sinh nộp lệ phí bằng cách chuyển khoản trực tiếp qua tài khoản ngân hàng của Trường Đại học FPT: 
+
+Ngân Hàng Thương mại Cổ phần Tiên Phong - Chi Nhánh Tp. Hồ Chí Minh
+Chủ tài khoản: Phân hiệu Trường Đại học FPT tại thành phố Hồ Chí Minh
+Số tài khoản: 20209090909
+Nội dung: Họ và tên thí sinh - Số CMND của thí sinh - Lệ phí ĐKTS 2023
+
+*Đăng ký chỉ hợp lệ khi Trường ĐH FPT nhận được đầy đủ hồ sơ và lệ phí tuyển sinh theo quy định.
+
+2. Thông tin liên hệ
+
+Phòng Tuyển sinh Trường Đại học FPT (Campus TP. Hồ Chí Minh)
+Địa chỉ: Lô E2a-7, Đường D1 Khu Công nghệ cao, P. Long Thạnh Mỹ, Q.9, Tp.HCM
+Hotline: (028) 7300 5588
+Website: https://hcmuni.fpt.edu.vn
+Fanpage: https://www.facebook.com/FPTU.HCM
+Hằng năm, Đại học FPT trao tặng hàng trăm suất học bổng cho những thí sinh tài năng trong các lĩnh vực học tập, khoa học - kỹ thuật, năng khiếu... cho các bạn học sinh THPT trên toàn quốc. Học bổng Đại học FPT được mang tên cố Giáo sư - Võ sư Nguyễn Văn Đạo để ghi nhớ những đóng góp của ông cho nền giáo dục và khoa học của Việt Nam nói chung, cũng như sự phát triển của Đại học FPT nói riêng. Các suất học bổng Đại học FPT có giá trị hàng trăm triệu đồng và được áp dụng trong suốt thời gian học tập tại trường. Các suất học bổng có giá trị từ 100%+, 100%, 70%, 50%... học phí quá trình đào tạo. 
+
+Tất cả các bạn học sinh THPT trên toàn quốc, đủ điều kiện nhận các suất học bổng từ Đại học FPT, có thể tham khảo quy chế học bổng của nhà trường và nộp hồ sơ xét tuyển. Các hồ sơ học bổng sẽ được nhà trường xét duyệt và công bố theo quy chế học bổng được Hiệu trưởng Trường Đại học FPT ban hành. Nhà trường sẽ ưu tiên những hồ sơ xét duyệt những hồ sơ hoàn thành đầy đủ và sớm nhất.
+
+Các bạn thí sinh và phụ huynh vui lòng tham khảo thông tin chi tiết Quy định Học bổng Nguyễn Văn Đạo của Trường Đại học FPT bên dưới.
+
+
+
+QUY ĐỊNH HỌC BỔNG NGUYỄN VĂN ĐẠO
+
+Áp dụng cho sinh viên hệ Đại học chính quy Trường Đại học FPT năm 2023
+
+ 
+1. Mục đích
+
+- Tìm kiếm, thu hút và bồi dưỡng nhân tài; 
+
+- Ghi nhớ những đóng góp của cố GS.VS Nguyễn Văn Đạo cho sự nghiệp giáo dục, khoa học kỹ thuật của Việt Nam nói chung và sự phát triển của Đại học FPT nói riêng. 
+
+ 
+
+ 2. Số lượng học bổng
+
+- 1000 suất học bổng
+
+ 
+
+ 3. Mức học bổng và tiêu chí cấp học bổng
+
+ 
+
+ a. Cấp thẳng học bổng
+
+Thí sinh đủ điều kiện trúng tuyển Đại học FPT được cấp học bổng của Đại học FPT nếu đáp ứng một trong những điều kiện sau:
+
+Mức học bổng	
+100%+ (học phí và sinh hoạt phí)
+Tiêu chí
+Thỏa mãn một trong các tiêu chí:
+
+- Tham gia đội tuyển trong các kỳ thi quốc tế IMO, IOI.
+
+- Đạt giải Nhất trong kỳ thi Học sinh giỏi Quốc gia một trong các môn Toán, Vật lý, Hóa học, Tin học.
+Mức học bổng	
+70%	
+Tiêu chí
+- Đạt giải Nhì trong kỳ thi Học sinh giỏi quốc gia các môn Toán, Vật lý, Hoá học, Tin học.
+Mức học bổng	
+50%	
+Tiêu chí
+Thoả mãn một trong các tiêu chí:
+
+- Đạt giải Ba trong kỳ thi Học sinh giỏi quốc gia các môn Toán, Vật lý, Hoá học, Tin học;
+
+- Đạt giải Nhất, Nhì, Ba cấp quốc gia các bộ môn năng khiếu về văn nghệ, thể thao, nghệ thuật, sắc đẹp (Phụ lục) hoặc các cuộc thi khác được phê duyệt bởi Hội đồng tuyển sinh trường Đại học FPT.
+Phục lục :
+1	Cuộc thi Khoa học kỹ thuật cấp quốc gia
+2	Giải vô địch thể hình quốc gia
+3	Hội Khỏe Phù Đổng toàn quốc
+4	Giải Thể thao Sinh viên Việt Nam (Vietnam University Games -VUG)
+5	Giải Vô địch khiêu vũ thể thao quốc gia và Cúp khiêu vũ thể thao mở rộng toàn quốc
+6	Sasuke Việt Nam
+7	Giải vô địch điền kinh quốc gia
+8	Giải bóng chuyền vô địch quốc gia
+9	Giải bóng đá trong nhà cúp quốc gia (Vietnamese National Futsal Cup)
+10	Giải bóng đá sinh viên toàn quốc
+11	Giải vô địch bóng bàn toàn quốc Báo Nhân Dân
+12	Giải Cúp Vô địch Võ cổ truyền toàn quốc
+13	Giải Vô địch trẻ Karatedo toàn quốc
+14	Giải vô địch Taekwondo các lứa tuổi trẻ toàn quốc
+15	Giọng Hát Việt (The Voice)
+16	Cuộc thi Hoa hậu Việt Nam (Miss Vietnam)
+17	Cuộc thi Hoa hậu Hoàn Vũ Việt Nam (Miss Universe Vietnam)
+18	Vietnam’s Next Top Model
+19	Cuộc thi Nữ hoàng trang sức Việt Nam
+20	Cuộc thi Hoa hậu Đại dương Việt Nam (Miss Ocean Vietnam)
+
+ b. Thi giành học bổng
+Thí sinh đủ điều kiện xét tuyển Đại học FPT, tốt nghiệp THPT năm 2023, chưa từng đạt học bổng trong các kì thi học bổng của Đại học FPT và đạt một trong các tiêu chí sau sẽ đủ điều kiện tham gia kỳ thi học bổng của Đại học FPT để nhận các mức học bổng 10% - 100% (học phí toàn khoá học):
+
+- Có tên trong danh sách đội tuyển thi Học sinh giỏi Quốc Gia (các môn: Toán, Vật lý, Hóa học, Tin học, tiếng Anh);
+
+- Xếp hạng học bạ THPT 2023 đạt TOP30 THPT 2023 (Chứng nhận thực hiện trên trang http://SchoolRank.fpt.edu.vn)
+
+- Điểm GPA  từ mức A (hoặc tương đương) trở lên (đối với các thí sinh tốt nghiệp THPT ở nước ngoài)
+
+Ghi chú: (*) chính xác đến 0.25 (ví dụ: từ 23.75 đến 24 làm tròn thành 24)
+
+ 
+4. Lịch trình thi học bổng, xét cấp học bổng
+Dự kiến: 7/5/2023
+
+ 
+
+5. Cấu trúc đề thi học bổng Đại học FPT
+
+ Các thí sinh thực hiện 2 bài thi bằng ngôn ngữ Tiếng Việt, chi tiết như sau:
+ Bài thi 1	Tư duy logic, 90 câu	120 phút	 90 điểm
+ Bài thi 2	Nghị luận xã hội	60 phút	 15 điểm
+Điểm chuẩn kỳ thi học bổng của ĐH FPT do Chủ tịch Hội đồng tuyển sinh quyết định, được công bố theo từng đợt thi.
+
+ 
+
+6. Hồ sơ đăng ký tham gia chương trình học bổng Nguyễn Văn Đạo
+
+- Đăng ký thi học bổng trực tuyến tại: https://dangky.fpt.edu.vn/
+
+- 01 bản photo hoặc bản Scan CMND;
+
+- 01 ảnh 3x4 hoặc bản Scan ảnh 3x4;
+
+- Lệ phí thi học bổng 200,000 VNĐ;
+
+- 01 bản photo/ Scan học bạ THPT (đối với hồ sơ xét tuyển theo kết quả Học bạ THPT) hoặc 01 bản gốc Giấy chứng nhận kết quả kỳ thi THPT 2023 (đối với hồ sơ xét tuyển theo kết quả thi THPT 2023);
+
+- 01 Giấy chứng nhận xếp hạng học sinh THPT năm 2022 thực hiện trên trang http://SchoolRank.fpt.edu.vn 
+
+- Giấy Xác nhận thông tin về cư trú (Có chữ ký và đóng dấu của Thủ trưởng cơ quan đăng ký cơ trú hoặc có chữ ký số của Thủ trưởng cơ quan đăng ký cơ trú đối với văn bản điện tử)
+
+- Bản photo các giấy tờ xác nhận thành tích (Bản chính sẽ nộp trong hồ sơ nhập học).
+
+ 
+
+7. Hồ sơ nhập học chương trình học bổng Nguyễn Văn Đạo
+
+- Phiếu nhập học (theo quy định của Trường ĐH FPT);
+- Phí đăng ký nhập học và Học phí theo Quy định tài chính sinh viên Trường ĐH FPT hiện hành;
+- 01 Bản sao chứng thực Bằng tốt nghiệp THPT (hoặc Giấy chứng nhận tốt nghiệp THPT tạm thời và bổ sung sau khi có Bằng);
+- 01 Bản sao chứng thực Học bạ THPT;
+- 01 Bản sao chứng thực CMND;
+- 01 Ảnh 3×4;
+- 01 Bản sao chứng thực Giấy khai sinh;
+- 01 Bản sao chứng thực CMND của bố hoặc mẹ;
+- 01 Bản sao chứng thực Sổ hộ khẩu;
+- 01 Bản sao chứng thực Chứng chỉ tiếng Anh TOEFL iBT từ 80 hoặc IELTS (Học thuật) từ 6.0 hoặc quy đổi tương đương (nếu có);
+- 01 Bản sao chứng thực Chứng chỉ tiếng Nhật JLPT từ N3 trở lên (nếu có);
+- 01 Bản sao chứng thực Chứng chỉ tiếng Hàn TOPIK cấp độ 4 trong kỳ thi TOPIK II (nếu có);
+- 01 Bản sao chứng thực Bằng tốt nghiệp đại học (nếu có);
+- 01 Bản sao chứng thực Bằng tốt nghiệp Chương trình APTECH HDSE (nếu có);
+- 01 Bản sao chứng thực Bằng tốt nghiệp Chương trình ARENA ADIM (nếu có);
+- Các bản sao chứng thực các giấy tờ xác nhận thành tích;
+- 01 Giấy Chứng Nhận xếp hạng học sinh THPT thực hiện trên trang http://SchoolRank.fpt.edu.vn.
+
+ 
+
+8. Các quy định khác
+
+Thực hiện theo quy định tài chính học bổng, tín dụng đối với sinh viên hệ đại học chính quy Trường Đại học FPT hiện hành:  
+
+a. Nhà trường sẽ ưu tiên cấp học bổng cho thí sinh hoàn thành hồ sơ nhập học sớm cho đến khi hết chỉ tiêu học bổng năm 2023; 
+
+b. Học bổng Nguyễn Văn Đạo là học bổng đích danh và không có giá trị chuyển đổi cho người khác cũng như chuyển đổi thành tiền mặt;
+
+c. Học bổng Nguyễn Văn Đạo là độc lập và không áp dụng cùng với bất cứ một hình thức ưu đãi nào khác của Trường Đại học FPT;
+
+d. Đối với học bổng mức 100%+ (học phí và sinh hoạt phí): Sinh hoạt phí là chi phí ăn ở, chỉ được hỗ trợ trong thời gian thực học theo chương trình (bao gồm học phí chương trình tiếng Anh dự bị), không áp dụng cho các giai đoạn tạm ngưng học vì bất cứ lý do gì. 
+HỌC PHÍ ĐẠI HỌC FPT
+Học phí Đại học FPT được tính theo từng học kỳ. Một năm học sẽ có 3 học kỳ: Fall – Spring – Summer bắt đầu vào tháng 9 – tháng 1 – tháng 5. Mỗi học kỳ kéo dài trong 04 tháng. 
+
+Số lần nộp học phí được công bố tại thời điểm tuyển sinh không thay đổi trong suốt quá trình học.
+
+Sinh viên được xếp lớp phù hợp với năng lực tiếng Anh đầu vào của mình. Sinh viên chỉ nộp học phí cho số mức tiếng Anh tương ứng.
+
+Mức học phí này không thay đổi trong học kỳ nước ngoài (không bao gồm các khoản sinh hoạt phí, ăn ở, đi lại tại đất nước đó).
+
+Học phí Đại học FPT đã bao gồm chi phí giáo trình, lệ phí thi cuối kỳ và phí cấp bằng tốt nghiệp.
+
+
+Phương thức đóng học phí Đại học FPT
+
+Chuyển khoản theo thông tin bên dưới:
+
+•	Tên chủ tài khoản: Phân hiệu Trường Đại Học FPT tại Thành phố Hồ Chí Minh
+•	Số tài khoản: 20209090909
+•	Tên ngân hàng: Ngân hàng TMCP Tiên phong - CN TP.HCM 
+•	Nội dung nộp tiền:  FPTU - Họ & Tên thí sinh - Số CMND thí sinh – HP2024
+
+
+BẢNG HỌC PHÍ THAM KHẢO (ÁP DỤNG CHO SINH VIÊN NHẬP HỌC NĂM 2024)
+
+HỌC PHẦN
+
+HỌC PHÍ 
+
+Học phí kỳ định hướng
+
+11.900.000 (áp dụng đối với sinh viên mới nhập học năm 2024)
+
+Tiếng Anh 1
+
+11.900.000
+
+Tiếng Anh 2
+
+11.900.000
+
+Tiếng Anh 3
+
+11.900.000
+
+Tiếng Anh 4
+
+11.900.000
+
+Tiếng Anh 5
+
+11.900.000
+
+Tiếng Anh 6 (Học kỳ nước ngoài)
+
+11.900.000
+
+Học kỳ 1
+
+28.700.000
+
+Học kỳ 2
+
+28.700.000
+
+Học kỳ 3
+
+28.700.000
+
+Học kỳ 4
+
+30.500.000
+
+Học kỳ 5
+
+30.500.000 
+
+Học kỳ 6
+
+30.500.000 
+
+Học kỳ 7
+
+32.500.000 
+
+Học kỳ 8
+
+32.500.000 
+
+Học kỳ 9
+
+32.500.000  
+
+
+
+(*) Theo QĐ 08/QĐ-CTGDFPT ngày 12/01/2024 Quy định tài chính sinh viên năm học 2-24-2025 các hệ đào tạo thuộc hệ thống giáo dục FPT.
+
+(*) Đây là mức học phí áo dụng cho Tân sinh viên K20.
+
+  
+
+CHƯƠNG TRÌNH TÍN DỤNG ƯU ĐÃI
+
+
+
+1.	Đối tượng tham gia chương trình 
+
+
+Các thí sinh trúng tuyển Đại học FPT, có học lực khá, khó khăn về tài chính có nguyện vọng tham gia chương trình Tín dụng ưu đãi, đáp ứng đủ điều kiện đầu vào xét cấp tín dụng. Việc cấp tín dụng chỉ được áp dụng từ khi thí sinh trở thành sinh viên chính thức của Trường.
+
+
+2.	Tiêu chí cấp tín dụng
+
+
+Thí sinh có nguyện vọng tham gia chương trình Tín dụng ưu đãi, có mức sống trung bình trở xuống theo Nghị định số 07/2021/NĐ-CP của Thủ tướng chính phủ ban hành ngày 27/01/2021, đạt điều kiện sau và vượt qua vòng phỏng vấn của Đại học FPT: Đạt xếp hạng Top30 theo kết quả thi THPT năm 2024 hoặc theo học bạ THPT năm 2024 (chứng nhận thực hiện trên trang https://SchoolRank.fpt.edu.vn).
+
+ 
+
+3.	Thời hạn, hạn mức cấp tín dụng
+
+
+Thực hiện theo quy định tài chính học bổng, tín dụng đối với sinh viên hệ đại học chính quy Trường Đại học FPT hiện hành:   
+-	Các mức tín dụng: 50% - 70% học phí toàn khoá học;
+-	Thời hạn cấp tín dụng tối đa 5 năm kể từ ngày nhập học. 
+
+
+4.	Hồ sơ đăng ký tham gia chương trình Tín dụng ưu đãi
+
+ 
+Ngoài hồ sơ đã nộp khi đăng ký vào Đại học FPT, thí sinh cần nộp thêm các giấy tờ sau: 
+-	Đơn đề nghị tham gia chương trình có chữ ký xác nhận của phụ huynh; 
+-	Các giấy tờ tài liệu giúp nhà trường xác thực hoàn cảnh khó khăn tài chính của gia đình;
+-	01 Bản photo hộ khẩu;
+-	01 Bản photo hộ khẩu của Người bảo lãnh;
+-	01 Bản photo CMND của Người bảo lãnh;
+-	01 Giấy Chứng Nhận xếp hạng học sinh THPT thực hiện trên trang http://SchoolRank.fpt.edu.vn.
+
+
+5.	Hồ sơ nhập học chương trình Tín dụng ưu đãi
+
+
+Ngoài hồ sơ nhập học theo Quy chế tuyển sinh hiện hành của Trường Đại học FPT, thí sinh cần nộp bổ sung các giấy tờ sau:
+-	Các giấy tờ chứng thực (bản gốc) đã nộp khi đăng ký tham gia chương trình Tín dụng ưu đãi;
+-	02 Bản Thỏa thuận Tín dụng theo mẫu của Trường Đại học FPT đã có chữ ký của học sinh và người bảo lãnh.
+
+Trường Đại học FPT trân trọng thông báo chương trình học bổng “FPTU Scholarship 1000” hệ đại học chính quy – Trường Đại học FPT năm 2023 như sau:
+
+
+1. Nội dung chương trình
+Trao 1000 học bổng hệ đại học chính quy – Trường ĐH FPT năm 2023 cho thí sinh tốt nghiệp THPT năm 2023 đạt các tiêu chí:
+- Đủ điều kiện nhập học vào Trường ĐH FPT (Theo phương thức tuyển sinh:  xét tuyển thẳng hoặc xét kết quả xếp hạng học sinh THPT năm 2023 - chứng nhận thực hiện trên trang https://SchoolRank.fpt.edu.vn – xem trong Quy chế tuyển sinh Hệ đại học chính quy năm 2023 của Trường ĐH FPT);
+- Nộp đơn và được Hội đồng Học bổng Trường ĐH FPT xem xét chấp nhận;
+- Hoàn tất các thủ tục đăng ký học bổng và đăng ký xét tuyển sau khi được chấp nhận cấp học bổng.
+
+2. Hồ sơ và hình thức đăng ký
+2.1 Hồ sơ đăng ký
+- Bản photocopy các bằng chứng xác nhận thành tích liên quan đến một hoặc một số lĩnh vực sau: Học tập; Văn hoá - thể thao; Hoạt động cộng đồng; Khác;
+- Đơn đăng ký học bổng trả lời ba câu hỏi: “Bạn là ai?”; “Bạn có thành tích gì?” và “Vì sao bạn chọn học Trường ĐH FPT?”;
+- Bản photocopy/scan CMND/CCCD/hộ chiếu;
+- Giấy chứng nhận xếp hạng học sinh THPT năm 2023 trên trang http://SchoolRank.fpt.edu.vn (nếu đủ điều kiện đăng ký theo kết quả xếp hạng THPT năm 2023);
+- Bản photocopy các giấy tờ khác chứng nhận đủ điều kiện đăng ký vào Trường ĐH FPT (nếu đủ điều kiện xét tuyển thẳng).
+
+2.2 Hình thức đăng ký
+Thí sinh gửi hồ sơ đăng ký qua email với subject là <Số CMND/CCCD>_<Họ tên> về email: fptuscholarship1000@fe.edu.vn
+
+
+***LƯU Ý VỀ ĐƠN ĐĂNG KÝ XÉT CẤP HỌC BỔNG: 
+
+a) Lưu ý về Đơn đăng ký học bổng:
+- Đơn đăng ký học bổng trình bày tối đa 2000 từ;
+- Đánh số ở cuối mỗi trang dạng “trang M/N”, trong đó M là số trang, N là tổng số trang;
+- Đối với Đơn đăng ký học bổng viết tay, thí sinh gửi hình chụp các trang của Đơn đăng ký, yêu cầu dung lượng file tối đa 5Mb;
+- Đơn đăng ký học bổng cần nêu rõ các thông tin cá nhân: họ và tên, số điện thoại, tên trường THPT, tỉnh trường THPT.
+
+b) Đối với các bằng chứng xác nhận thành tích dạng clip, audio (nếu có):
+- Thời lượng không quá 5 phút;
+- Chất lượng quay full HD.
+
+c) Đối với các bằng chứng xác nhận thành tích  dạng ảnh (nếu có): Số lượng tối đa là 5 ảnh.
+
+d) Các lưu ý khác:
+
+- Đặt tên file: SỐ CCCD/CMND_HỌ TÊN (không có dấu)_NGÀNH HỌC_NƠI ĐĂNG KÝ HỌC (HN/HCM/ĐN/CT/QN)
+
+
+- Ví dụ:  
+
+Số CMND/CCCD
+
+112345678
+
+Họ tên
+
+Nguyễn Văn A
+
+Ngành học
+
+CNTT
+
+Đăng ký học tại
+
+HCM
+
+Tên file
+
+112345678_NguyenVanA_CNTT_HCM
+
+
+
+- Nội dung lành mạnh, phù hợp với văn hóa Việt Nam.
+
+- Thí sinh chịu trách nhiệm lưu Đơn đăng ký đến hết thời gian nhập học để trường hậu kiểm khi cần thiết;
+
+- Thí sinh chịu trách nhiệm về tính chính xác của các nội dung đã trình bày trong Đơn đăng ký học bổng;
+- Trường ĐH FPT được toàn quyền sử dụng các nội dung trong Đơn đăng ký học bổng của thí sinh.
+
+Thời gian:
+- Thời gian đăng ký: trước ngày 30/04/2023
+- Công bố kết quả: 15/5/2023
+- Hạn bổ sung hồ sơ và nộp phí giữ chỗ học bổng: 31/5/2023
+
+Các quy định khác:
+- Miễn lệ phí đăng ký học bổng đối với thí sinh tham gia chương trình này. 
+- Sau khi được phê duyệt học bổng, thí sinh nộp lệ phí tuyển sinh và phí giữ chỗ học bổng 10.000.000đ theo thời hạn quy định. Khi thí sinh nhập học, khoản phí giữ chỗ học bổng được chuyển thành các khoản phí phải nộp hoặc hoàn trả. Nếu thí sinh không nhập học thì khoản phí này được hoàn lại 50%;
+- Mỗi thí sinh chỉ nộp 1 bộ hồ sơ đăng ký học bổng này và hồ sơ có thể bổ sung khi chưa hết hạn đăng ký. 
+
+ Làm thế nào để trở thành sinh viên của trường Đại học FPT?
+
+
+Để trở thành sinh viên Đại học FPT, bạn cần đáp ứng một trong các điều kiện:
+		• Có điểm trung bình học bạ lớp 11 và học kỳ 1 lớp 12 đạt TOP40 trở lên theo bảng xếp hạng tra cứu tại: http://schoolrank.fpt.edu.vn • Có điểm thi THPT QG đạt TOP40 trở lên theo bảng xếp hạng tra cứu tại: http://schoolrank.fpt.edu.vn • Hoặc thí sinh thuộc đối tượng ưu tiên xét tuyển, chi tiết xem thêm tại trang Học bổng.
+		 
+Ngoài học phí thì có phát sinh chi phí gì không?
+
+
+Đại học FPT công bố chi tiết học phí tại trang Học phí. Sinh viên được miễn phí toàn bộ giáo trình (nhập khẩu) trong suốt 4 năm học.
+
+
+Trường có chính sách học bổng không? Nếu muốn có học bổng thì cần đáp ứng điều kiện gì?
+
+
+Hàng năm, Đại học FPT dành hàng trăm suất học bổng đầu vào từ 10% - 100% học phí. Học bổng này được cấp cho toàn khóa học của sinh viên. 
+Điều kiện để tham gia xét cấp học bổng yêu cầu thí sinh cần có các thành tích từ cấp Quốc Gia trở lên hoặc tham gia thi xét cấp học bổng thường vào tháng 5 hàng năm. Chi tiết xem tại trang Học bổng. 
+
+
+Khi nào thì tôi có thể nộp hồ sơ vào trường? Và hồ sơ bao gồm những gì?
+
+
+Mỗi năm, vào khoảng tháng 2, Đại học FPT sẽ bắt đầu nhận đăng ký của thí sinh qua cổng đăng ký online: http://dangky.fpt.edu.vn/dang-ky. 
+Thí sinh cần chuẩn bị các tập tin hình ảnh: Hai mặt của Chứng minh nhân dân/Căn cước công dân; Học bạ các năm học THPT (tính tới thời điểm nộp hồ sơ); Chứng nhận các thành tích (nếu có).
+Ngay từ bây giờ, thí sinh quan tâm đến các thông tin tuyển sinh của Đại học FPT, vui lòng liên hệ hotline (028) 7300.5588. 
+
+
+Tôi đã học ở một trường Đại học khác, tôi có thể chuyển sang Đại học FPT để học tiếp không?
+
+Hiện nay, Đại học FPT tiếp nhận sinh viên chuyển trường từ các trường Đại học khác. Tuy nhiên, sinh viên phải đến từ các trường thuộc TOP 1000 trong 3 bảng xếp hạng gần nhất: QS, ARWU & THE hoặc các trường đạt chứng nhận QS Stars 5* về chất lượng đào tạo. 
+
+
+Tôi tốt nghiệp THPT ở nước ngoài, nếu về Việt Nam tôi có được đăng ký vào học tại Đại học FPT không?
+
+
+Trường hợp thí sinh là đối tượng đã tốt nghiệp THPT ở nước ngoài khi về Việt Nam để đăng ký vào Đại học FPT bạn cần chứng nhận của Sở GD-ĐT về việc công nhận văn bằng. Chi tiết vui lòng liên hệ hotline: (028) 7300.5588 để được hỗ trợ. 
+
+
+Chương trình học của Đại học FPT là giảng dạy bằng Tiếng Anh hay Tiếng Việt?
+
+
+Tại trường Đại học FPT, Tiếng Anh là ngôn ngữ chính được sử dụng trong học tập, thi cử và giảng dạy. Sinh viên được sử dụng miễn phí giáo trình hoàn toàn cầu, cung cấp bởi các nhà xuất bản danh tiếng trên thế giới.
+
+
+Để trở thành sinh viên tại Đại học FPT tôi có cần đáp ứng yêu cầu chuẩn Tiếng Anh đầu vào nào không?
+
+Đối với chương trình đào tạo của Đại học FPT, nếu sinh viên đáp ứng được chuẩn IELTS 6.0 trở lên hoặc tương đương sẽ được miễn Tiếng Anh nền tảng năm đầu tiên để vào học chuyên ngành (rút ngắn thời gian học tập còn 3 năm). Đối với trường hợp sinh viên chưa đáp ứng được điều kiện Tiếng Anh như trên sẽ được đào tạo Tiếng Anh nền tảng, chuẩn bị đầy đủ kiến thức cho việc học chuyên ngành vào năm 2 (Số cấp độ tiếng Anh được dạy trong năm đầu tiên sẽ phụ thuộc vào trình độ của sinh viên sau khi thực hiện bài kiểm tra đầu năm). 
+
+
+Vì sao chương trình đào tạo hệ Đại học chính quy của trường Đại học FPT chỉ kéo dài 3 năm?
+
+
+Với chương trình đào tạo 3 học kỳ/năm nên sinh viên có thể hoàn tất 9 học kỳ chuyên ngành chỉ trong vòng 3 năm. Đồng thời, sinh viên có lịch nghỉ mỗi 2 tuần xen giữa các học kỳ.
+Việc áp dụng lịch học này không chỉ giúp sinh viên rút ngắn thời gian học tập mà còn giúp bạn làm quen với lịch làm việc toàn thời gian, thích nghi với môi trường làm việc chuyên nghiệp tại các doanh nghiệp.
