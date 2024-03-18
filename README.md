@@ -9,7 +9,9 @@ Communication between potential students and university departments often involv
 ## Key Features
 
 - **RAG Framework**: The chatbot employs the Retrieval-augmented generation (RAG) framework, which integrates retrieval-based methods and generative approaches to enhance natural language processing capabilities.
-  ![Chatbot Image](https://miro.medium.com/v2/resize:fit:1189/1*z9vZmK3dEfPNA_fymiWWHw.png)
+  <div style="background-color: white; padding: 20px; display: inline-block;">
+    ![Chatbot Image](https://miro.medium.com/v2/resize:fit:1189/1*z9vZmK3dEfPNA_fymiWWHw.png)
+  </div>
 - **Fine-tuned Models**: We fine-tune models, such as vietzephyr-7b-lora-8bit, on the Vietnamese dataset vilm/OpenOrca-Viet to optimize chatbot performance for the target audience.
   
 - **Dataset Integration**: The chatbot utilizes multiple datasets, including the vilm/OpenOrca-Viet dataset and the Student Handbook dataset, to provide accurate and contextually relevant responses.
